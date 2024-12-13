@@ -1,0 +1,6 @@
+protocol,key_length,distance_to_alice,percentage,mean_qber,mean_qber_after_correction,mean_simulated_time,mean_repetitions
+BB84,32,20,50,0.2365625,,142126134.8,6.6
+BB84,64,20,50,0.241875,,278830915.2,6.55
+BB84,128,20,50,0.25328125,,561157780.7,6.63
+BB84,256,20,50,0.2562890625,,1134191415.0,6.72
+BB84,512,20,50,0.24638671875,,2258227254.0,6.68

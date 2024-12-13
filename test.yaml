@@ -1,0 +1,9 @@
+---
+qkd-protocol: BB84
+key-length: 15
+redundancy-rate: 0.5
+link-length: 300
+
+eavesdropper:
+  distance-to-alice: 200
+  percentage-qubits: 0
