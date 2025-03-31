@@ -11,9 +11,7 @@ This project provides a simulation framework for analyzing security vulnerabilit
 - Designed to work on macOS and Linux (requires NetSquid).
 
 ## Simulation Parameters
-Users can configure the simulation using a YAML configuration file. 
-
-![Figure 1: YAML example](images/YAML.png)
+Users can configure the simulation using a YAML configuration file. Check as an example [test.yaml](test.yaml).
 
 
 Key parameters include:
