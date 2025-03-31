@@ -42,7 +42,7 @@ Key parameters include:
    ```
 
 ## Output Data
-The simulation results are stored in two CSV files:
+The simulation results are stored in two CSV files (check as an example [test_results.csv](test__results.csv) and [test_means.csv](test__means.csv)):
 
 1. `<yaml_name>_results.csv`: Logs detailed execution data, including:
    - Protocol, key length, distance to Alice, percentage of intercepted qubits
